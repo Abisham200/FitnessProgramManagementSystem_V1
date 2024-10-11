@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\ut03304\\Desktop\\MS2Exam\\FitnessProgramManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6E82B01-D190-4ADC-B7A5-414E534DAF29}|FitnessProgramManagementSystem.csproj|C:\\Users\\ut03304\\Desktop\\MS2Exam\\FitnessProgramManagementSystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E6E82B01-D190-4ADC-B7A5-414E534DAF29}|FitnessProgramManagementSystem.csproj|c:\\users\\ut03304\\desktop\\ms2exam\\fitnessprogrammanagementsystem\\fitnessprogram .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E82B01-D190-4ADC-B7A5-414E534DAF29}|FitnessProgramManagementSystem.csproj|solutionrelative:fitnessprogram .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E82B01-D190-4ADC-B7A5-414E534DAF29}|FitnessProgramManagementSystem.csproj|c:\\users\\ut03304\\desktop\\ms2exam\\fitnessprogrammanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6E82B01-D190-4ADC-B7A5-414E534DAF29}|FitnessProgramManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FitnessProgram .cs",
+              "DocumentMoniker": "C:\\Users\\ut03304\\Desktop\\MS2Exam\\FitnessProgramManagementSystem\\FitnessProgram .cs",
+              "RelativeDocumentMoniker": "FitnessProgram .cs",
+              "ToolTip": "C:\\Users\\ut03304\\Desktop\\MS2Exam\\FitnessProgramManagementSystem\\FitnessProgram .cs",
+              "RelativeToolTip": "FitnessProgram .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T04:40:26.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ut03304\\Desktop\\MS2Exam\\FitnessProgramManagementSystem\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
