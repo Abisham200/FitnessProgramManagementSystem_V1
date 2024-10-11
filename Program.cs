@@ -23,7 +23,8 @@ namespace FitnessProgramManagementSystem
         public static void Menu()
         {
             var fitnessProgram = new FitnessProgramManager();
-            while (true)
+            var status = true;
+            while (status)
             {
                 Console.WriteLine("FitnessProgram Management System:");
                 Console.WriteLine("1. Add a FitnessProgram");
@@ -33,8 +34,8 @@ namespace FitnessProgramManagementSystem
                 Console.WriteLine("5. Exit");
                 Console.WriteLine("Choose an option:");
 
-                string MenuInput = Console.ReadLine();
-                bool status = true;
+                var MenuInput = Console.ReadLine();
+                
                 switch (MenuInput)
                 {
                     case "1":

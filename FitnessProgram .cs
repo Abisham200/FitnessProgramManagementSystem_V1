@@ -30,5 +30,10 @@ namespace FitnessProgramManagementSystem
         {
             return $"{FitnessProgramId}, Title: {Title}, Duration: {Duaration}, Price: {Price}";
         }
+
+        public virtual string DisplayFitnessProgramInfo()
+        {
+            return $"{FitnessProgramId}, Title: {Title}, Duration: {Duaration}, Price: {Price}";
+        }
     }
 }
