@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\ut03304\\Desktop\\MS2Exam\\FitnessProgramManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6E82B01-D190-4ADC-B7A5-414E534DAF29}|FitnessProgramManagementSystem.csproj|C:\\Users\\ut03304\\Desktop\\MS2Exam\\FitnessProgramManagementSystem\\individualfitnessprogram .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E6E82B01-D190-4ADC-B7A5-414E534DAF29}|FitnessProgramManagementSystem.csproj|C:\\Users\\ut03304\\Desktop\\MS2Exam\\FitnessProgramManagementSystem\\fitnessprogram .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E82B01-D190-4ADC-B7A5-414E534DAF29}|FitnessProgramManagementSystem.csproj|solutionrelative:fitnessprogram .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E82B01-D190-4ADC-B7A5-414E534DAF29}|FitnessProgramManagementSystem.csproj|C:\\Users\\ut03304\\Desktop\\MS2Exam\\FitnessProgramManagementSystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6E82B01-D190-4ADC-B7A5-414E534DAF29}|FitnessProgramManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6E82B01-D190-4ADC-B7A5-414E534DAF29}|FitnessProgramManagementSystem.csproj|c:\\users\\ut03304\\desktop\\ms2exam\\fitnessprogrammanagementsystem\\individualfitnessprogram .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6E82B01-D190-4ADC-B7A5-414E534DAF29}|FitnessProgramManagementSystem.csproj|solutionrelative:individualfitnessprogram .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,16 +19,8 @@
       "RelativeMoniker": "D:0:0:{E6E82B01-D190-4ADC-B7A5-414E534DAF29}|FitnessProgramManagementSystem.csproj|solutionrelative:groupfitnessprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6E82B01-D190-4ADC-B7A5-414E534DAF29}|FitnessProgramManagementSystem.csproj|c:\\users\\ut03304\\desktop\\ms2exam\\fitnessprogrammanagementsystem\\fitnessprogram .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6E82B01-D190-4ADC-B7A5-414E534DAF29}|FitnessProgramManagementSystem.csproj|solutionrelative:fitnessprogram .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E6E82B01-D190-4ADC-B7A5-414E534DAF29}|FitnessProgramManagementSystem.csproj|C:\\Users\\ut03304\\Desktop\\MS2Exam\\FitnessProgramManagementSystem\\fitnessprogrammanager .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6E82B01-D190-4ADC-B7A5-414E534DAF29}|FitnessProgramManagementSystem.csproj|solutionrelative:fitnessprogrammanager .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6E82B01-D190-4ADC-B7A5-414E534DAF29}|FitnessProgramManagementSystem.csproj|C:\\Users\\ut03304\\Desktop\\MS2Exam\\FitnessProgramManagementSystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6E82B01-D190-4ADC-B7A5-414E534DAF29}|FitnessProgramManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "GroupFitnessProgram.cs",
               "DocumentMoniker": "C:\\Users\\ut03304\\Desktop\\MS2Exam\\FitnessProgramManagementSystem\\GroupFitnessProgram.cs",
               "RelativeDocumentMoniker": "GroupFitnessProgram.cs",
@@ -42,12 +42,11 @@
               "RelativeToolTip": "GroupFitnessProgram.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T06:41:46.298Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T06:41:46.298Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "IndividualFitnessProgram .cs",
               "DocumentMoniker": "C:\\Users\\ut03304\\Desktop\\MS2Exam\\FitnessProgramManagementSystem\\IndividualFitnessProgram .cs",
               "RelativeDocumentMoniker": "IndividualFitnessProgram .cs",
@@ -60,7 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "FitnessProgramManager .cs",
               "DocumentMoniker": "C:\\Users\\ut03304\\Desktop\\MS2Exam\\FitnessProgramManagementSystem\\FitnessProgramManager .cs",
               "RelativeDocumentMoniker": "FitnessProgramManager .cs",
@@ -68,25 +67,24 @@
               "RelativeToolTip": "FitnessProgramManager .cs",
               "ViewState": "AQIAAG0AAAAAAAAAAAAcwIYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T05:06:09.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T05:06:09.112Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "FitnessProgram .cs",
               "DocumentMoniker": "C:\\Users\\ut03304\\Desktop\\MS2Exam\\FitnessProgramManagementSystem\\FitnessProgram .cs",
               "RelativeDocumentMoniker": "FitnessProgram .cs",
               "ToolTip": "C:\\Users\\ut03304\\Desktop\\MS2Exam\\FitnessProgramManagementSystem\\FitnessProgram .cs",
               "RelativeToolTip": "FitnessProgram .cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAcwCcAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-11T04:40:26.747Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ut03304\\Desktop\\MS2Exam\\FitnessProgramManagementSystem\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

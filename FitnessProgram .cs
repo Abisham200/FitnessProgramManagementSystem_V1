@@ -14,6 +14,7 @@ namespace FitnessProgramManagementSystem
         public string Title { get; set; }
         public string Duaration { get; set; }
         public decimal Price { get; set; }
+        public int TotalFitnessPrograms { get; set; }
 
         public FitnessProgram(string fitnessProgramId, string title, string duaration, decimal price)
         {
@@ -21,6 +22,7 @@ namespace FitnessProgramManagementSystem
             this.Title = title;
             this.Duaration = duaration;
             this.Price = price;
+            this.TotalFitnessPrograms++;
         }
 
        
