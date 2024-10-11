@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.SqlTypes;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -24,7 +25,7 @@ namespace FitnessProgramManagementSystem
             Console.WriteLine("Enter Fitness Program Duaration :");
             var Duaration = Console.ReadLine();
             Console.WriteLine("Enter Fitness Program Price :");
-            var Price = Console.ReadLine();
+            var Price = ValidateFitnessProgramPrice();
 
             var FitnessProgram = new FitnessProgram()
             {
@@ -73,7 +74,7 @@ namespace FitnessProgramManagementSystem
                 Console.WriteLine("Enter Fitness Program Duaration :");
                 var nDuaration = Console.ReadLine();
                 Console.WriteLine("Enter Fitness Program Price :");
-                var nPrice = Console.ReadLine();
+                var nPrice = ValidateFitnessProgramPrice();
 
                 var nFitnessProgram = new FitnessProgram();
                 {
@@ -110,6 +111,25 @@ namespace FitnessProgramManagementSystem
             {
                 Console.WriteLine("INVALID Id");
             }
+        }
+
+        public decimal ValidateFitnessProgramPrice()
+        { 
+        decimal init = 0;
+            Console.WriteLine("ENTER THE PRICE");
+            decimal price = int.Parse(Console.ReadLine());
+
+            if (price < 0)
+            {
+                init = price;
+                Console.WriteLine("Price added");
+                
+
+            }
+            else {
+                Console.WriteLine("Enter the Price again");
+            }
+            return init;
         }
     }
 }

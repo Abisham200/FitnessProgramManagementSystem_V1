@@ -14,8 +14,8 @@ namespace FitnessProgramManagementSystem
         {
         }
 
-        public string DisplayIndividualFitnessProgramInfo() {
-            return $"{FitnessProgramId}, Title: {Title}, Duration: {Duaration}, Price: {Price} ,SubscriptionType{SubscriptionType}, needPersonalTrainer{needPersonalTrainer} ";
+        public override string DisplayFitnessProgramInfo() {
+            return base.DisplayFitnessProgramInfo() + $"SubscriptionType{SubscriptionType}, needPersonalTrainer{needPersonalTrainer} ";
         }
     }
 }

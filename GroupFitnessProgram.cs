@@ -14,8 +14,8 @@ namespace FitnessProgramManagementSystem
         {
         }
 
-        public string DisplayGroupFitnessProgramInfo() { 
-        return $"{FitnessProgramId}, Title: {Title}, Duration: {Duaration}, Price: {Price} ,ScheduleName{ScheduleName}, GroupCapacity{GroupCapacity} ";
+        public override string DisplayFitnessProgramInfo() { 
+        return base.DisplayFitnessProgramInfo() + $" ScheduleName : {ScheduleName}, ScheduleName{ScheduleName}";
         }
     }
 }
