@@ -1,0 +1,10 @@
+C:\Users\ut03304\Desktop\MS2Exam\FitnessProgramManagementSystem\bin\Debug\FitnessProgramManagementSystem.exe.config
+C:\Users\ut03304\Desktop\MS2Exam\FitnessProgramManagementSystem\bin\Debug\FitnessProgramManagementSystem.exe
+C:\Users\ut03304\Desktop\MS2Exam\FitnessProgramManagementSystem\bin\Debug\FitnessProgramManagementSystem.pdb
+C:\Users\ut03304\Desktop\MS2Exam\FitnessProgramManagementSystem\obj\Debug\FitnessProgramManagementSystem.csproj.AssemblyReference.cache
+C:\Users\ut03304\Desktop\MS2Exam\FitnessProgramManagementSystem\obj\Debug\FitnessProgramManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ut03304\Desktop\MS2Exam\FitnessProgramManagementSystem\obj\Debug\FitnessProgramManagementSystem.exe
+C:\Users\ut03304\Desktop\MS2Exam\FitnessProgramManagementSystem\obj\Debug\FitnessProgramManagementSystem.pdb
+C:\Users\ut03304\Desktop\MS2Exam\FitnessProgramManagementSystem\bin\Debug\System.Data.SqlClient.dll
+C:\Users\ut03304\Desktop\MS2Exam\FitnessProgramManagementSystem\bin\Debug\System.Data.SqlClient.xml
+C:\Users\ut03304\Desktop\MS2Exam\FitnessProgramManagementSystem\obj\Debug\FitnessP.B6461C06.Up2Date

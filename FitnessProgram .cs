@@ -10,6 +10,11 @@ namespace FitnessProgramManagementSystem
     {
         public FitnessProgram() { }
 
+         public string FitnessProgramId { get; set; }
+        public string Title { get; set; }
+        public string Duaration { get; set; }
+        public string Price { get; set; }
+
         public FitnessProgram(string fitnessProgramId, string title, string duaration, string price)
         {
             this.FitnessProgramId = fitnessProgramId;
@@ -18,10 +23,12 @@ namespace FitnessProgramManagementSystem
             this.Price = price;
         }
 
-        private string FitnessProgramId { get; set; }
-        private string Title { get; set; }
-        private string Duaration { get; set; }
-        private string Price { get; set; }
+       
 
+
+        public override string ToString()
+        {
+            return $"{FitnessProgramId}, Title: {Title}, Duration: {Duaration}, Price: {Price}";
+        }
     }
 }
