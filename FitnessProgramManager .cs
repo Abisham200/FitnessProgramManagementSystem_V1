@@ -76,13 +76,13 @@ namespace FitnessProgramManagementSystem
                 Console.WriteLine("Enter Fitness Program Price :");
                 var nPrice = ValidateFitnessProgramPrice();
 
-                var nFitnessProgram = new FitnessProgram();
+                var nFitnessProgram = new FitnessProgram
                 {
-                    nFitnessProgramId = nFitnessProgramId;
-                    nTitle = nTitle;
-                    nDuaration = nDuaration;
-                    nPrice = nPrice;
-                }
+                    FitnessProgramId = nFitnessProgramId,
+                    Title = nTitle,
+                    Duaration = nDuaration,
+                    Price = nPrice,
+                };
 
                 this.FitnessProgramList.Add(nFitnessProgram);
                 Console.WriteLine("Fitness Program UPDATED SuccesFully");
@@ -127,7 +127,7 @@ namespace FitnessProgramManagementSystem
 
             }
             else {
-                Console.WriteLine("Enter the Price again");
+               
             }
             return init;
         }
